@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fasademesteren</title>
+  <style>
+    /* Legg til stil for siden her */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fasademesteren</h1>
+    <nav>
+      <ul>
+        <li><a href="#om-oss">Om oss</a></li>
+        <li><a href="#tjenester">Tjenester</a></li>
+        <li><a href="#kontakt-oss">Kontakt oss</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="om-oss">
+      <h2>Om oss</h2>
+      <p>Fasademesteren er en erfaren og dyktig fagarbeider som spesialiserer seg på å opprettholde og forbedre fasader av alle slag. Enten du trenger rehabilitering av en eldre bygning, eller du ønsker å gi en moderne bygning et nytt og friskt utseende, vil fasademesteren finne den beste løsningen for deg og ditt prosjekt.</p>
+      <p>En av de største utfordringene med å vedlikeholde fasader er de harde norske værforholdene som kan påvirke bygningsmaterialene over tid. Fasademesteren tar hensyn til dette og sørger for å bruke materialer og teknikker som er motstandsdyktige mot ekstreme temperaturer, nedbør og andre værforhold som kan skade fasaden.</p>
+      <p>Fasademesteren er stolt av å være en ansvarlig aktør innenfor bygg- og anleggsbransjen. Dette betyr at de tar hensyn til miljøet og bruker miljøvennlige metoder og materialer der det er mulig. Fasademesteren er opptatt av å levere høy kvalitet og god service til kundene sine, samtidig som de tar ansvar for samfunnet og miljøet vi lever i.</p>
+    </section>
+    
+    <section id="tjenester">
+      <h2>Tjenester</h2>
+      <ul>
+        <li>Overflatebehandling av mur og betong</li>
+        <li>Pussing og sparkling</li>
+        <li>Sandblåsing</li>
+        <li>Malingsfjerning</li>
+        <li>Fasadevask</li>
+        <li>Takvask</li>
+        <li>Vindusvask</li>
+        <li>Impregnering</li>
+        <li>Innvendig og utvendig maling</li>
+      </ul>
+      <p>Fasademesteren tilbyr en rekke tjenester for å holde fasaden i god stand. Dette inkluderer maling, betongarbeid, pussing, vask og fjerning av grønske og mose. Ved å bruke høykvalitetsprodukter og teknikker vil
