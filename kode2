@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fasademesteren - Vask, oppussing og vedlikehold av fasader og tak</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#tjenester">Tjenester</a></li>
+        <li><a href="#om-oss">Om oss</a></li>
+        <li><a href="#kontakt">Kontakt</a></li>
+      </ul>
+    </nav>
+    <h1>Fasademesteren</h1>
+    <p>En fasade utsettes for store påkjenninger, og flere typer skader kan oppstå. Fasademesteren utfører alt innen vask, oppussing og vedlikehold av fasader – og tak. På trehus og murhus. Vi tar hensyn til hva slags behandling fasaden har fått tidligere – f.eks. hva slags malingstyper som er brukt.</p>
+  </header>
+  <main>
+    <section id="tjenester">
+      <h2>Tjenester</h2>
+      <ul>
+        <li>Overflatebehandling av mur og betong</li>
+        <li>Pussing og sparkling</li>
+        <li>Sandblåsing</li>
+        <li>Malingsfjerning</li>
+        <li>Fasadevask</li>
+        <li>Takvask</li>
+        <li>Vindusvask</li>
+        <li>Impregnering</li>
+        <li>Innvendig og utvendig maling</li>
+      </ul>
+      <p>Flinke fagfolk med over 25 års erfaring sikrer deg kvalitet og trygghet! Kontakt oss for gratis befaring og kostnadsoverslag.</p>
+    </section>
+    <section id="om-oss">
+      <h2>Om oss</h2>
+      <p>Fasademesteren er en erfaren og dyktig fagarbeider som spesialiserer seg på å opprettholde og forbedre fasader av alle slag. Enten du trenger rehabilitering av en eldre bygning, eller du ønsker å gi en moderne bygning et nytt og friskt utseende, vil fasademesteren finne den beste løsningen for deg og ditt prosjekt.</p>
+      <p>En av de største utfordringene med å vedlikeholde fasader er de harde norske værforholdene som kan påvirke bygningsmaterialene over tid. Fasademesteren tar hensyn til dette og sørger for å bruke materialer og teknikker som er motstandsdyktige mot ekstreme temperaturer, nedbør og andre værforhold som kan skade fasaden.</p>
+      <p>Rehabilitering av en eldre bygning kan være en kompleks oppgave, men fasademesteren
