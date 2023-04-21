@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fasademesteren</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Fasademesteren</h1>
+		<nav>
+			<ul>
+				<li><a href="#tjenester">Tjenester</a></li>
+				<li><a href="#om-oss">Om oss</a></li>
+				<li><a href="#kontakt">Kontakt oss</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="hero">
+			<img src="hero-image.jpg" alt="Fasademesteren in action">
+			<h2>Vi tar vare på fasaden din</h2>
+			<p>Enten det er oppussing eller vedlikehold som trengs, kan du stole på Fasademesteren for å få jobben gjort.</p>
+		</section>
+		<section id="tjenester">
+			<h2>Tjenester</h2>
+			<ul>
+				<li>Overflatebehandling av mur og betong</li>
+				<li>Pussing og sparkling</li>
+				<li>Sandblåsing</li>
+				<li>Malingsfjerning</li>
+				<li>Fasadevask</li>
+				<li>Takvask</li>
+				<li>Vindusvask</li>
+				<li>Impregnering</li>
+				<li>Innvendig og utvendig maling</li>
+			</ul>
+		</section>
+		<section id="om-oss">
+			<h2>Om oss</h2>
+			<p>Fasademesteren er en erfaren og dyktig fagarbeider som spesialiserer seg på å opprettholde og forbedre fasader av alle slag. Enten du trenger rehabilitering av en eldre bygning, eller du ønsker å gi en moderne bygning et nytt og friskt utseende, vil fasademesteren finne den beste løsningen for deg og ditt prosjekt.</p>
+			<p>Fasademesteren er stolt av å være en ansvarlig aktør innenfor bygg- og anleggsbransjen. Dette betyr at de tar hensyn til miljøet og bruker miljøvennlige metoder og materialer der det er mulig. Fasademesteren er opptatt av å levere høy kvalitet og god service til kundene sine, samtidig som de tar ansvar for samfunnet og miljøet vi lever i.</p>
+		</section>
+		<section id="kontakt">
+			<h2>Kontakt oss</h2>
+			<p>Kontakt Fasademesteren for gratis befaring og kostnadsoverslag.</p>
+			<form action="submit-form.php" method="post">
+				<label for="name">Navn:</label>
+				<input type="text" id="name" name="name" required>
+				<label for="email">E-post:</label>
+				<input type="email" id="email" name="email" required>
+				<label for="
